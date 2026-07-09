@@ -1,1 +1,4 @@
-# بعداً تکمیل می‌شود
+python-telegram-bot==20.7
+requests
+python-dotenv
+openai
