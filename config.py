@@ -1,4 +1,1 @@
-python-telegram-bot==20.7
-requests
-python-dotenv
-openai
+# بعداً تنظیمات اینجا قرار می‌گیرد
